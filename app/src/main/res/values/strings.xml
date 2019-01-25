@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cultura</string>
+    <string name="headliners">HEADLINERS</string>
+    <string name="events">EVENTS</string>
+    <string name="reg">REGISTRATIONS</string>
+    <string name="spon">OUR SPONSORS</string>
+    <string name="about">ABOUT CULTURA</string>
+</resources>
